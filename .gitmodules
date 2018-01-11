@@ -1,0 +1,3 @@
+[submodule "CA-immersive"]
+	path = CA-immersive
+	url = https://github.com/ImmersiveStorytelling/CA-immersive.git
