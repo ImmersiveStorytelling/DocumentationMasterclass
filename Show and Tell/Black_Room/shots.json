@@ -1,0 +1,22 @@
+{
+	"test":[
+		{
+			"Filename":"1.hpv",
+			"Switches":0,
+			"Direction":true,
+			"Startpoint":0,
+			"SwitchAngle":45,
+			"SwitchTime":0,
+			"Orientation":[0,0,0]
+		},
+		{
+			"Filename":"2.hpv",
+			"Switches":1,
+			"Direction":true,
+			"Startpoint":0,
+			"SwitchAngle":45,
+			"SwitchTime":0,
+			"Orientation":[0,0,0]
+		}
+	]
+}

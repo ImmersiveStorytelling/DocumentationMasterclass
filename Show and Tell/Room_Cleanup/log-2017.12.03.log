@@ -1,0 +1,1218 @@
+Sun Dec  3 13:49:19 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Sun Dec  3 13:49:19 2017
+[verbose]: D3D11 init was succesful
+Sun Dec  3 13:49:19 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:20 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:20 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:22 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:31 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:35 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:40 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:44 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:47 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:49:58 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:02 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:04 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:08 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:09 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:13 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:41 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:50:43 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 13:51:06 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:51:06 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 13:59:07 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:07 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:07 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:14 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:16 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:19 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:20 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:21 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:22 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:22 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:23 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:25 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:25 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:27 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:27 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:29 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:30 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 13:59:37 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:37 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 13:59:39 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:39 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:39 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:46 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 13:59:46 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 13:59:46 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 13:59:46 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 13:59:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 13:59:46 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 13:59:54 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:54 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:54 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:58 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 13:59:59 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:02 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:06 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:13 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:20 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:26 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:33 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:46 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:50 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:56 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:57 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:00:59 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:01:06 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 14:01:49 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:01:49 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 14:02:36 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:02:36 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:02:36 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:02:43 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:02:49 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:02:52 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:02:56 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:03 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:05 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:07 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:08 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:08 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:21 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:25 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:27 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:30 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:03:37 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 14:05:49 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:05:49 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 14:17:47 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:17:47 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:17:48 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:18:15 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:18:25 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:18:46 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:01 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:11 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:13 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:22 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:26 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:26 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:19:55 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:20:07 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:20:09 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:20:22 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:20:25 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 14:21:46 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 14:21:46 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:14:51 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Sun Dec  3 17:14:55 2017
+[verbose]: ~RenderBridge
+Sun Dec  3 17:14:55 2017
+[verbose]: ~HPVMAnager
+Sun Dec  3 17:14:55 2017
+[verbose]: Closing log
+Sun Dec  3 17:17:33 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Sun Dec  3 17:17:33 2017
+[verbose]: D3D11 init was succesful
+Sun Dec  3 17:17:40 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:17:40 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:19:22 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:19:22 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:19:37 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:19:37 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:20:09 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:09 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:10 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:17 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:18 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:19 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:20 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:22 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:23 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:25 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:26 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:26 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:28 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:29 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:31 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:32 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:34 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 17:20:40 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:20:40 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:31:24 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:24 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:24 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:37 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:38 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:38 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:40 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:40 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:41 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:42 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:43 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:43 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 17:31:44 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:31:44 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:39:37 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:37 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:37 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:45 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:48 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:53 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:55 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:39:58 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:00 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:02 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:05 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:08 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:11 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:15 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:18 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:21 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:25 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 17:40:34 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:40:34 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:41:58 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:41:58 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:41:58 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:43:20 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:43:20 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:43:20 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:43:20 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:43:20 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:43:20 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:43:20 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:43:20 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:43:50 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:43:50 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:43:50 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:43:57 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:00 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:02 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:05 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:08 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:11 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:13 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:15 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:19 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:23 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:25 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:27 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:29 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:44:33 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 17:45:00 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:45:00 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:53:18 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:18 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:18 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:25 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:28 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:30 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:33 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:38 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:40 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:42 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:44 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:48 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:50 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:54 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:53:58 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:01 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:04 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 17:54:18 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:54:18 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 17:54:31 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:31 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:31 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:36 2017
+[verbose]: Loaded file '4.hpv' [dims: 3840x2160 | fps: 25 | frames: 1756 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:43 2017
+[verbose]: Loaded file '5.hpv' [dims: 3840x2160 | fps: 25 | frames: 1785 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:45 2017
+[verbose]: Loaded file '6.hpv' [dims: 3840x2160 | fps: 25 | frames: 1758 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:50 2017
+[verbose]: Loaded file '7.hpv' [dims: 3840x2160 | fps: 25 | frames: 1769 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:54:59 2017
+[verbose]: Loaded file '8.hpv' [dims: 3840x2160 | fps: 25 | frames: 1759 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:06 2017
+[verbose]: Loaded file '9.hpv' [dims: 3840x2160 | fps: 25 | frames: 1983 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:10 2017
+[verbose]: Loaded file '10.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:14 2017
+[verbose]: Loaded file '11.hpv' [dims: 3840x2160 | fps: 25 | frames: 1787 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:28 2017
+[verbose]: Loaded file '12.hpv' [dims: 3840x2160 | fps: 25 | frames: 1760 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:35 2017
+[verbose]: Loaded file '13.hpv' [dims: 3840x2160 | fps: 25 | frames: 1771 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:43 2017
+[verbose]: Loaded file '14.hpv' [dims: 3840x2160 | fps: 25 | frames: 1811 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:46 2017
+[verbose]: Loaded file '15.hpv' [dims: 3840x2160 | fps: 25 | frames: 1824 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:48 2017
+[verbose]: Loaded file '16.hpv' [dims: 3840x2160 | fps: 25 | frames: 1815 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:55:57 2017
+[verbose]: Loaded file '17.hpv' [dims: 3840x2160 | fps: 25 | frames: 1840 | type: DXT1 (no ALPHA) | version: 6]
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 4.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 5.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 6.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 7.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 8.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 9.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 10.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 11.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 12.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 13.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 14.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 15.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 16.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Closed HPV worker thread for 17.hpv
+Sun Dec  3 17:56:51 2017
+[verbose]: Cleared all HPV Players
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: ~HPVPLayer
+Sun Dec  3 17:56:51 2017
+[verbose]: Deleted GPU resources
+Sun Dec  3 18:33:12 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Sun Dec  3 18:33:13 2017
+[verbose]: ~RenderBridge
+Sun Dec  3 18:33:13 2017
+[verbose]: ~HPVMAnager
+Sun Dec  3 18:33:13 2017
+[verbose]: Closing log

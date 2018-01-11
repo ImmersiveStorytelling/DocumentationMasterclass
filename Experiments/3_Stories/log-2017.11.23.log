@@ -1,0 +1,27 @@
+Thu Nov 23 13:07:00 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Thu Nov 23 13:07:00 2017
+[verbose]: D3D11 init was succesful
+Thu Nov 23 13:07:00 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Thu Nov 23 13:07:00 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Thu Nov 23 13:07:00 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 125 | type: DXT1 (no ALPHA) | version: 6]
+Thu Nov 23 13:27:11 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Thu Nov 23 13:27:11 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Thu Nov 23 13:27:11 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Thu Nov 23 13:27:11 2017
+[verbose]: Cleared all HPV Players
+Thu Nov 23 13:27:11 2017
+[verbose]: ~HPVPLayer
+Thu Nov 23 13:27:11 2017
+[verbose]: ~HPVPLayer
+Thu Nov 23 13:27:11 2017
+[verbose]: ~HPVPLayer
+Thu Nov 23 13:27:11 2017
+[verbose]: Deleted GPU resources

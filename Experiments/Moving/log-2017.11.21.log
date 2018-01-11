@@ -1,0 +1,237 @@
+Tue Nov 21 09:34:22 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Tue Nov 21 09:34:22 2017
+[verbose]: D3D11 init was succesful
+Tue Nov 21 09:34:22 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:34:22 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:34:22 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:38:25 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 09:38:25 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 09:38:25 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 09:38:25 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 09:38:25 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:38:25 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:38:25 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:38:25 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 09:38:32 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:38:32 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:38:32 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:39:26 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 09:39:26 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 09:39:26 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 09:39:26 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 09:39:26 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:39:26 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:39:26 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:39:26 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 09:39:47 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:39:47 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:39:47 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:42:49 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 09:42:49 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 09:42:49 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 09:42:49 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 09:42:49 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:42:49 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:42:49 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:42:49 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 09:43:23 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:43:23 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:43:23 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:43:28 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 09:43:28 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 09:43:28 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 09:43:28 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 09:43:28 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:43:28 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:43:28 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:43:28 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 09:46:37 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:46:37 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:46:37 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:46:43 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 09:46:43 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 09:46:43 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 09:46:43 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 09:46:43 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:46:43 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:46:43 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:46:43 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 09:48:39 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:48:40 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:48:40 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 09:51:07 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 09:51:07 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 09:51:07 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 09:51:07 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 09:51:07 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:51:07 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:51:07 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 09:51:07 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 10:33:21 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Tue Nov 21 10:33:23 2017
+[verbose]: ~RenderBridge
+Tue Nov 21 10:33:23 2017
+[verbose]: ~HPVMAnager
+Tue Nov 21 10:33:23 2017
+[verbose]: Closing log
+Tue Nov 21 11:07:37 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Tue Nov 21 11:07:37 2017
+[verbose]: D3D11 init was succesful
+Tue Nov 21 11:07:37 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:07:37 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:07:37 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:19:02 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 11:19:02 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 11:19:02 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 11:19:02 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 11:19:02 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:19:02 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:19:02 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:19:02 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 11:19:06 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:19:06 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:19:06 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:19:13 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 11:19:13 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 11:19:13 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 11:19:13 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 11:19:13 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:19:13 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:19:13 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:19:13 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 11:22:08 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Tue Nov 21 11:22:09 2017
+[verbose]: ~RenderBridge
+Tue Nov 21 11:22:09 2017
+[verbose]: ~HPVMAnager
+Tue Nov 21 11:22:09 2017
+[verbose]: Closing log
+Tue Nov 21 11:44:29 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Tue Nov 21 11:44:29 2017
+[verbose]: D3D11 init was succesful
+Tue Nov 21 11:44:29 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:44:29 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:44:29 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Tue Nov 21 11:50:18 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Tue Nov 21 11:50:18 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Tue Nov 21 11:50:18 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Tue Nov 21 11:50:18 2017
+[verbose]: Cleared all HPV Players
+Tue Nov 21 11:50:18 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:50:18 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:50:18 2017
+[verbose]: ~HPVPLayer
+Tue Nov 21 11:50:18 2017
+[verbose]: Deleted GPU resources
+Tue Nov 21 12:20:36 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Tue Nov 21 12:20:39 2017
+[verbose]: ~RenderBridge
+Tue Nov 21 12:20:39 2017
+[verbose]: ~HPVMAnager
+Tue Nov 21 12:20:39 2017
+[verbose]: Closing log

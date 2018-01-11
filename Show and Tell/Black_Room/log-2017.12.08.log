@@ -1,0 +1,83 @@
+Fri Dec  8 15:11:27 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Fri Dec  8 15:11:27 2017
+[verbose]: D3D11 init was succesful
+Fri Dec  8 15:11:27 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 2678 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:11:27 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 873 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:11:27 2017
+[verbose]: Calling resume() on a video that's not paused.
+Fri Dec  8 15:13:16 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Fri Dec  8 15:13:16 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Fri Dec  8 15:13:16 2017
+[verbose]: Cleared all HPV Players
+Fri Dec  8 15:13:16 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:13:16 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:13:16 2017
+[verbose]: Deleted GPU resources
+Fri Dec  8 15:13:17 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 878 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:13:27 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 2678 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:13:27 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 873 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:13:27 2017
+[verbose]: Calling resume() on a video that's not paused.
+Fri Dec  8 15:13:30 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Fri Dec  8 15:13:30 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Fri Dec  8 15:13:30 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Fri Dec  8 15:13:30 2017
+[verbose]: Cleared all HPV Players
+Fri Dec  8 15:13:30 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:13:30 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:13:30 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:13:30 2017
+[verbose]: Deleted GPU resources
+Fri Dec  8 15:13:31 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 2678 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:13:31 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 873 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:13:31 2017
+[verbose]: Calling resume() on a video that's not paused.
+Fri Dec  8 15:15:16 2017
+[ error ]: Cannot pause because we're not playing.
+Fri Dec  8 15:15:16 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 878 | type: DXT1 (no ALPHA) | version: 6]
+Fri Dec  8 15:15:16 2017
+[verbose]: Calling resume() on a video that's not paused.
+Fri Dec  8 15:15:56 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Fri Dec  8 15:15:56 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Fri Dec  8 15:15:56 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Fri Dec  8 15:15:56 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Fri Dec  8 15:15:56 2017
+[verbose]: Cleared all HPV Players
+Fri Dec  8 15:15:56 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:15:56 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:15:56 2017
+[verbose]: ~HPVPLayer
+Fri Dec  8 15:15:56 2017
+[verbose]: Deleted GPU resources
+Fri Dec  8 15:15:56 2017
+[verbose]: ~RenderBridge
+Fri Dec  8 15:15:56 2017
+[verbose]: ~HPVMAnager
+Fri Dec  8 15:15:56 2017
+[verbose]: Closing log

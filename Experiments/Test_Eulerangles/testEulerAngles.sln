@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testEulerAngles", "testEulerAngles.csproj", "{FD555391-EC5D-88F7-59B7-3CB5DF0951D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testEulerAngles.Editor", "testEulerAngles.Editor.csproj", "{A9D68F6F-44A5-6EC5-927B-C76D03FECA8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD555391-EC5D-88F7-59B7-3CB5DF0951D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD555391-EC5D-88F7-59B7-3CB5DF0951D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD555391-EC5D-88F7-59B7-3CB5DF0951D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD555391-EC5D-88F7-59B7-3CB5DF0951D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D68F6F-44A5-6EC5-927B-C76D03FECA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D68F6F-44A5-6EC5-927B-C76D03FECA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D68F6F-44A5-6EC5-927B-C76D03FECA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D68F6F-44A5-6EC5-927B-C76D03FECA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackRoomUnity - kopie", "BlackRoomUnity - kopie.csproj", "{EC77329A-8767-79E7-F0E6-33CEDDAD94A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackRoomUnity - kopie.Editor", "BlackRoomUnity - kopie.Editor.csproj", "{F80C83E2-25A3-137D-671B-3EFCF38F600F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC77329A-8767-79E7-F0E6-33CEDDAD94A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC77329A-8767-79E7-F0E6-33CEDDAD94A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC77329A-8767-79E7-F0E6-33CEDDAD94A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC77329A-8767-79E7-F0E6-33CEDDAD94A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80C83E2-25A3-137D-671B-3EFCF38F600F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80C83E2-25A3-137D-671B-3EFCF38F600F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80C83E2-25A3-137D-671B-3EFCF38F600F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80C83E2-25A3-137D-671B-3EFCF38F600F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

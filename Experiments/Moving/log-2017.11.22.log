@@ -1,0 +1,35 @@
+Wed Nov 22 13:34:15 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Wed Nov 22 13:34:15 2017
+[verbose]: D3D11 init was succesful
+Wed Nov 22 13:34:15 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Wed Nov 22 13:34:15 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Wed Nov 22 13:34:15 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Wed Nov 22 13:37:17 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Wed Nov 22 13:37:17 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Wed Nov 22 13:37:17 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Wed Nov 22 13:37:17 2017
+[verbose]: Cleared all HPV Players
+Wed Nov 22 13:37:17 2017
+[verbose]: ~HPVPLayer
+Wed Nov 22 13:37:17 2017
+[verbose]: ~HPVPLayer
+Wed Nov 22 13:37:17 2017
+[verbose]: ~HPVPLayer
+Wed Nov 22 13:37:17 2017
+[verbose]: Deleted GPU resources
+Wed Nov 22 13:48:44 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Wed Nov 22 13:48:46 2017
+[verbose]: ~RenderBridge
+Wed Nov 22 13:48:46 2017
+[verbose]: ~HPVMAnager
+Wed Nov 22 13:48:46 2017
+[verbose]: Closing log

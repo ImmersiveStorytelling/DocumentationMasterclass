@@ -1,0 +1,57 @@
+Fri Nov 24 10:33:27 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Fri Nov 24 10:33:27 2017
+[verbose]: D3D11 init was succesful
+Fri Nov 24 10:33:27 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Fri Nov 24 10:33:27 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Fri Nov 24 10:33:28 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Fri Nov 24 10:39:06 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Fri Nov 24 10:39:06 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Fri Nov 24 10:39:06 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Fri Nov 24 10:39:06 2017
+[verbose]: Cleared all HPV Players
+Fri Nov 24 10:39:06 2017
+[verbose]: ~HPVPLayer
+Fri Nov 24 10:39:06 2017
+[verbose]: ~HPVPLayer
+Fri Nov 24 10:39:06 2017
+[verbose]: ~HPVPLayer
+Fri Nov 24 10:39:06 2017
+[verbose]: Deleted GPU resources
+Fri Nov 24 10:39:46 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Fri Nov 24 10:39:46 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Fri Nov 24 10:39:46 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Fri Nov 24 10:40:51 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Fri Nov 24 10:40:51 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Fri Nov 24 10:40:51 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Fri Nov 24 10:40:51 2017
+[verbose]: Cleared all HPV Players
+Fri Nov 24 10:40:51 2017
+[verbose]: ~HPVPLayer
+Fri Nov 24 10:40:51 2017
+[verbose]: ~HPVPLayer
+Fri Nov 24 10:40:51 2017
+[verbose]: ~HPVPLayer
+Fri Nov 24 10:40:51 2017
+[verbose]: Deleted GPU resources
+Fri Nov 24 11:35:55 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Fri Nov 24 11:35:59 2017
+[verbose]: ~RenderBridge
+Fri Nov 24 11:35:59 2017
+[verbose]: ~HPVMAnager
+Fri Nov 24 11:35:59 2017
+[verbose]: Closing log

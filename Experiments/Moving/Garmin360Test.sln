@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garmin360Test", "Garmin360Test.csproj", "{9C25391D-1234-7F71-855A-EC51C7FB3B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garmin360Test.Editor", "Garmin360Test.Editor.csproj", "{D0DCEBC7-28E9-FC37-130E-42F1CA0FAF61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C25391D-1234-7F71-855A-EC51C7FB3B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C25391D-1234-7F71-855A-EC51C7FB3B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C25391D-1234-7F71-855A-EC51C7FB3B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C25391D-1234-7F71-855A-EC51C7FB3B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DCEBC7-28E9-FC37-130E-42F1CA0FAF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DCEBC7-28E9-FC37-130E-42F1CA0FAF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DCEBC7-28E9-FC37-130E-42F1CA0FAF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DCEBC7-28E9-FC37-130E-42F1CA0FAF61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

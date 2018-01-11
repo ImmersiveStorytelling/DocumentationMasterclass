@@ -1,0 +1,568 @@
+Mon Nov 20 09:55:29 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 20 09:55:29 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 20 09:55:29 2017
+[verbose]: Loaded file 'rollenconverted.hpv' [dims: 1920x960 | fps: 25 | frames: 570 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 09:55:29 2017
+[ error ]: Failed to open: 4992x2496_VincentStitch.hpv
+Mon Nov 20 09:55:29 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 09:55:39 2017
+[verbose]: Closed HPV worker thread for rollenconverted.hpv
+Mon Nov 20 09:55:39 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:55:39 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 09:55:39 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:55:39 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 09:55:41 2017
+[verbose]: Loaded file 'rollenconverted.hpv' [dims: 1920x960 | fps: 25 | frames: 570 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 09:55:41 2017
+[ error ]: Failed to open: 4992x2496_VincentStitch.hpv
+Mon Nov 20 09:55:41 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 09:55:48 2017
+[verbose]: Closed HPV worker thread for rollenconverted.hpv
+Mon Nov 20 09:55:48 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:55:48 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 09:55:48 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:55:48 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 09:55:51 2017
+[verbose]: Loaded file 'rollenconverted.hpv' [dims: 1920x960 | fps: 25 | frames: 570 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 09:55:51 2017
+[ error ]: Failed to open: 4992x2496_VincentStitch.hpv
+Mon Nov 20 09:55:51 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 09:56:03 2017
+[verbose]: Closed HPV worker thread for rollenconverted.hpv
+Mon Nov 20 09:56:03 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:56:03 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 09:56:03 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:56:03 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 09:56:09 2017
+[verbose]: Loaded file 'rollenconverted.hpv' [dims: 1920x960 | fps: 25 | frames: 570 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 09:56:09 2017
+[ error ]: Failed to open: 4992x2496_VincentStitch.hpv
+Mon Nov 20 09:56:09 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 09:56:50 2017
+[verbose]: Closed HPV worker thread for rollenconverted.hpv
+Mon Nov 20 09:56:50 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:56:50 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 09:56:50 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 09:56:50 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 09:57:36 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Mon Nov 20 09:57:37 2017
+[verbose]: ~RenderBridge
+Mon Nov 20 09:57:37 2017
+[verbose]: ~HPVMAnager
+Mon Nov 20 09:57:37 2017
+[verbose]: Closing log
+Mon Nov 20 11:23:55 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 20 11:23:55 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 20 11:23:55 2017
+[verbose]: Loaded file 'rollenconverted.hpv' [dims: 1920x960 | fps: 25 | frames: 570 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:23:55 2017
+[ error ]: Failed to open: 4992x2496_VincentStitch.hpv
+Mon Nov 20 11:23:55 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:26 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:33 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:35 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:46 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:47 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:52 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:55 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:24:57 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:25:00 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:25:39 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:29:40 2017
+[verbose]: Closed HPV worker thread for rollenconverted.hpv
+Mon Nov 20 11:29:40 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:29:40 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 11:29:40 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:29:40 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 11:29:46 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Mon Nov 20 11:29:47 2017
+[verbose]: ~RenderBridge
+Mon Nov 20 11:29:47 2017
+[verbose]: ~HPVMAnager
+Mon Nov 20 11:29:47 2017
+[verbose]: Closing log
+Mon Nov 20 16:35:57 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 20 16:35:57 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 20 16:35:57 2017
+[ error ]: Failed to open: v1.hpv
+Mon Nov 20 16:36:21 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:36:21 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:36:21 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:36:23 2017
+[ error ]: Failed to open: v1.hpv
+Mon Nov 20 16:36:36 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 16:36:45 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:36:45 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:36:45 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:36:46 2017
+[ error ]: Failed to open: v1.hpv
+Mon Nov 20 16:36:46 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 16:37:16 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:37:16 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:37:16 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:37:19 2017
+[ error ]: Failed to open: v1.hpv
+Mon Nov 20 16:37:19 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 16:37:42 2017
+[ error ]: Failed to open: v2.hpv
+Mon Nov 20 16:37:59 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:37:59 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:37:59 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:37:59 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:48:57 2017
+[ error ]: Failed to open: v1.hpv
+Mon Nov 20 16:49:42 2017
+[ error ]: Failed to open: v2.hpv
+Mon Nov 20 16:49:44 2017
+[ error ]: Failed to open: v3.hpv
+Mon Nov 20 16:50:22 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:50:22 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:50:22 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:50:22 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:50:22 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:50:35 2017
+[ error ]: Failed to open: v1.hpv
+Mon Nov 20 16:50:37 2017
+[ error ]: Failed to open: v3.hpv
+Mon Nov 20 16:50:39 2017
+[ error ]: Failed to open: v2.hpv
+Mon Nov 20 16:50:47 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:50:47 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:50:47 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:50:47 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:50:47 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:52:00 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:52:08 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:52:09 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:52:25 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 20 16:52:25 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 20 16:52:25 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 20 16:52:25 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:52:25 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:52:25 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:52:25 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:52:25 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:52:39 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:52:41 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:52:43 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:52:52 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 20 16:52:52 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 20 16:52:52 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 20 16:52:52 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:52:52 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:52:52 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:52:52 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:52:52 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:55:26 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:55:28 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:55:29 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:57:22 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 20 16:57:22 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 20 16:57:22 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 20 16:57:22 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:57:22 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:57:22 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:57:22 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:57:22 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:57:24 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:57:26 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:57:32 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:58:21 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 20 16:58:21 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 20 16:58:21 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 20 16:58:21 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:58:21 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:58:21 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:58:21 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:58:21 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:58:24 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:58:28 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:58:36 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 20 16:58:36 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 20 16:58:36 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 16:58:36 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:58:36 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 16:58:36 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 16:59:43 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:59:45 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 125 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 16:59:46 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:31:53 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 20 17:31:53 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 20 17:31:53 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 20 17:31:53 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 17:31:53 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:31:53 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:31:53 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:31:53 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 17:32:00 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Mon Nov 20 17:32:03 2017
+[verbose]: ~RenderBridge
+Mon Nov 20 17:32:03 2017
+[verbose]: ~HPVMAnager
+Mon Nov 20 17:32:03 2017
+[verbose]: Closing log
+Mon Nov 20 17:38:07 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 20 17:38:07 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 20 17:38:07 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 115 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:38:41 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 488 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:38:57 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 138 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:40:33 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 17:40:33 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 17:40:33 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 17:40:33 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 17:40:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:40:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:40:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:40:33 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 17:55:33 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 115 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:55:51 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 17:55:51 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 17:55:51 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:55:51 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 17:56:00 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 115 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:56:07 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 488 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:56:39 2017
+[ error ]: Cannot stop because we're not paying or paused.
+Mon Nov 20 17:56:39 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 17:56:39 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 17:56:39 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 17:56:39 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:56:39 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:56:39 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 17:57:46 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 115 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:57:51 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 488 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:58:43 2017
+[ error ]: Cannot stop because we're not paying or paused.
+Mon Nov 20 17:58:43 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 17:58:43 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 17:58:43 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 17:58:43 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:58:43 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:58:43 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 17:58:57 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 115 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:59:01 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 488 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:59:23 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 138 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 17:59:32 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 17:59:32 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 17:59:32 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 17:59:32 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 17:59:32 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:59:32 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:59:32 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 17:59:32 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 18:23:38 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:23:53 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:24:22 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:27:25 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 18:27:25 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 18:27:25 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 18:27:25 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 18:27:25 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:27:25 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:27:25 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:27:25 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 18:27:50 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:27:56 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:28:22 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:28:50 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 18:28:50 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 18:28:50 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 18:28:50 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 18:28:50 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:28:50 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:28:50 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:28:50 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 18:29:05 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:29:05 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:29:05 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:29:10 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 18:29:10 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 18:29:10 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 18:29:10 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 18:29:10 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:29:10 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:29:10 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:29:10 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 18:30:03 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:30:03 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:30:03 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:31:00 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 18:31:00 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 18:31:00 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 18:31:00 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 18:31:00 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:31:00 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:31:00 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:31:00 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 18:32:49 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:32:49 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:32:49 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:34:20 2017
+[ error ]: Cannot stop because we're not paying or paused.
+Mon Nov 20 18:34:20 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 18:34:20 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 18:34:20 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 18:34:20 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 18:34:20 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:34:20 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:34:20 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:34:20 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 18:37:31 2017
+[verbose]: Loaded file 'stil1.hpv' [dims: 3840x2160 | fps: 25 | frames: 128 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:37:31 2017
+[verbose]: Loaded file 'beweeg.hpv' [dims: 3840x2160 | fps: 25 | frames: 598 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:37:31 2017
+[verbose]: Loaded file 'stil2.hpv' [dims: 3840x2160 | fps: 25 | frames: 116 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 18:40:43 2017
+[verbose]: Closed HPV worker thread for stil1.hpv
+Mon Nov 20 18:40:43 2017
+[verbose]: Closed HPV worker thread for beweeg.hpv
+Mon Nov 20 18:40:43 2017
+[verbose]: Closed HPV worker thread for stil2.hpv
+Mon Nov 20 18:40:43 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 18:40:43 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:40:43 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:40:43 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 18:40:43 2017
+[verbose]: Deleted GPU resources

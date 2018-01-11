@@ -1,0 +1,195 @@
+Mon Nov 20 11:30:35 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 20 11:30:35 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 20 11:30:35 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:30:35 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:30:57 2017
+[verbose]: Loaded file 'puntverplaatsing2converted.hpv' [dims: 1920x960 | fps: 25 | frames: 60 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:31:14 2017
+[verbose]: Loaded file 'puntverplaatsing3converted.hpv' [dims: 1920x960 | fps: 25 | frames: 60 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:31:22 2017
+[verbose]: Loaded file 'puntverplaatsing4converted.hpv' [dims: 1920x960 | fps: 25 | frames: 60 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:31:38 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 11:31:38 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 11:31:38 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing2converted.hpv
+Mon Nov 20 11:31:38 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing3converted.hpv
+Mon Nov 20 11:31:38 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing4converted.hpv
+Mon Nov 20 11:31:38 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 11:31:38 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:31:38 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:31:38 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:31:38 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:31:38 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:31:38 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 11:31:39 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:31:39 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:31:53 2017
+[verbose]: Loaded file 'puntverplaatsing2converted.hpv' [dims: 1920x960 | fps: 25 | frames: 60 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:32:02 2017
+[verbose]: Loaded file 'puntverplaatsing3converted.hpv' [dims: 1920x960 | fps: 25 | frames: 60 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:32:08 2017
+[verbose]: Loaded file 'puntverplaatsing4converted.hpv' [dims: 1920x960 | fps: 25 | frames: 60 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:32:33 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 11:32:33 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 11:32:33 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing2converted.hpv
+Mon Nov 20 11:32:33 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing3converted.hpv
+Mon Nov 20 11:32:33 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing4converted.hpv
+Mon Nov 20 11:32:33 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 11:32:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:32:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:32:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:32:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:32:33 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:32:33 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 11:53:12 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:53:12 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:54:07 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 11:54:07 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 11:54:07 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 11:54:07 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:54:07 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:54:07 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 11:56:54 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:56:54 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:57:44 2017
+[ error ]: Cannot pause because we're not playing.
+Mon Nov 20 11:58:02 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 11:58:02 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 11:58:02 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 11:58:02 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:58:02 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:58:02 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 11:58:36 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:58:36 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:59:26 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 11:59:26 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 11:59:26 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 11:59:26 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:59:26 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 11:59:26 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 11:59:31 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 11:59:31 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:00:01 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 12:00:01 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 12:00:01 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 12:00:01 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:00:01 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:00:01 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 12:00:05 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:00:05 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:00:26 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 12:00:26 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 12:00:26 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 12:00:26 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:00:26 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:00:26 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 12:00:29 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:00:29 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:01:01 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 12:01:01 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 12:01:01 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 12:01:01 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:01:01 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:01:01 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 12:01:14 2017
+[verbose]: Loaded file 'puntverplaatsing1converted.hpv' [dims: 1920x960 | fps: 25 | frames: 30 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:01:14 2017
+[verbose]: Loaded file '4992x2496_VincentStitch.hpv' [dims: 4992x2496 | fps: 30 | frames: 601 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 20 12:02:10 2017
+[verbose]: Closed HPV worker thread for puntverplaatsing1converted.hpv
+Mon Nov 20 12:02:10 2017
+[verbose]: Closed HPV worker thread for 4992x2496_VincentStitch.hpv
+Mon Nov 20 12:02:10 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 20 12:02:10 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:02:10 2017
+[verbose]: ~HPVPLayer
+Mon Nov 20 12:02:10 2017
+[verbose]: Deleted GPU resources
+Mon Nov 20 13:08:07 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Mon Nov 20 13:08:10 2017
+[verbose]: ~RenderBridge
+Mon Nov 20 13:08:10 2017
+[verbose]: ~HPVMAnager
+Mon Nov 20 13:08:10 2017
+[verbose]: Closing log

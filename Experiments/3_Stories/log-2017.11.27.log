@@ -1,0 +1,114 @@
+Mon Nov 27 15:53:52 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 27 15:53:52 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 27 15:53:52 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 15:53:52 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 15:53:52 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 125 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 15:54:24 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 27 15:54:24 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 27 15:54:24 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 27 15:54:24 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 27 15:54:24 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 15:54:24 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 15:54:24 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 15:54:24 2017
+[verbose]: Deleted GPU resources
+Mon Nov 27 15:59:58 2017
+[verbose]: Loaded file 'v1.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 15:59:58 2017
+[verbose]: Loaded file 'v2.hpv' [dims: 3840x2160 | fps: 25 | frames: 124 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 15:59:58 2017
+[verbose]: Loaded file 'v3.hpv' [dims: 3840x2160 | fps: 25 | frames: 125 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:00:24 2017
+[verbose]: Closed HPV worker thread for v1.hpv
+Mon Nov 27 16:00:24 2017
+[verbose]: Closed HPV worker thread for v2.hpv
+Mon Nov 27 16:00:24 2017
+[verbose]: Closed HPV worker thread for v3.hpv
+Mon Nov 27 16:00:24 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 27 16:00:24 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:00:24 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:00:24 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:00:24 2017
+[verbose]: Deleted GPU resources
+Mon Nov 27 16:01:34 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Mon Nov 27 16:01:36 2017
+[verbose]: ~RenderBridge
+Mon Nov 27 16:01:36 2017
+[verbose]: ~HPVMAnager
+Mon Nov 27 16:01:36 2017
+[verbose]: Closing log
+Mon Nov 27 16:09:22 2017
+[verbose]: 
+OnGraphicsDeviceEvent(Initialize)
+Mon Nov 27 16:09:22 2017
+[verbose]: D3D11 init was succesful
+Mon Nov 27 16:09:22 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:09:22 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:09:22 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:10:04 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Mon Nov 27 16:10:04 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Mon Nov 27 16:10:04 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Mon Nov 27 16:10:04 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 27 16:10:04 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:10:04 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:10:04 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:10:04 2017
+[verbose]: Deleted GPU resources
+Mon Nov 27 16:28:06 2017
+[verbose]: Loaded file '1.hpv' [dims: 3840x2160 | fps: 25 | frames: 1778 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:28:06 2017
+[verbose]: Loaded file '2.hpv' [dims: 3840x2160 | fps: 25 | frames: 1766 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:28:06 2017
+[verbose]: Loaded file '3.hpv' [dims: 3840x2160 | fps: 25 | frames: 1765 | type: DXT1 (no ALPHA) | version: 6]
+Mon Nov 27 16:28:08 2017
+[verbose]: Closed HPV worker thread for 1.hpv
+Mon Nov 27 16:28:08 2017
+[verbose]: Closed HPV worker thread for 2.hpv
+Mon Nov 27 16:28:08 2017
+[verbose]: Closed HPV worker thread for 3.hpv
+Mon Nov 27 16:28:08 2017
+[verbose]: Cleared all HPV Players
+Mon Nov 27 16:28:08 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:28:08 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:28:08 2017
+[verbose]: ~HPVPLayer
+Mon Nov 27 16:28:08 2017
+[verbose]: Deleted GPU resources
+Mon Nov 27 16:47:31 2017
+[verbose]: OnGraphicsDeviceEvent(Shutdown)
+Mon Nov 27 16:47:35 2017
+[verbose]: ~RenderBridge
+Mon Nov 27 16:47:35 2017
+[verbose]: ~HPVMAnager
+Mon Nov 27 16:47:35 2017
+[verbose]: Closing log
